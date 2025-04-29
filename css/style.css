@@ -12,6 +12,9 @@ body {
     background-color: #f5f5f5;
 }
 
+.justificado {
+    text-align: justify;
+}
 .container {
     width: 85%;
     max-width: 1200px;
@@ -448,6 +451,4 @@ footer {
     }
 }
 
-.justificado {
-    text-align: justify;
-}
+
